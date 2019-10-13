@@ -1,2 +1,2 @@
-# basicgit
+#MyApp
 git tutorial
